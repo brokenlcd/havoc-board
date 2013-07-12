@@ -17168,6 +17168,7 @@ This is the "EZ" version, which has limited top masking for improved ease of ass
 </parts>
 <sheets>
 <sheet>
+<description>Havoc Dual-RBG OSRBG</description>
 <plain>
 <text x="-63.5" y="58.42" size="1.778" layer="91">VIN</text>
 <text x="-63.5" y="7.62" size="1.778" layer="91">VIN</text>
